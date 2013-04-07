@@ -2,6 +2,10 @@ OHM - Resistor value and color code calculator
 
 OHM is chrome extension that allows to calculate the color code of resistors given a value, or calculate the value in Ohms given the color code.
 
+Get the extension at the Chrome Store, searching for 'Ohm' in Extensions or at the following link:
+
+https://chrome.google.com/webstore/detail/ohm/cbnalidnmjgoiceomkbghbkjgicfffkb
+
 
 About the images
 -----------------
