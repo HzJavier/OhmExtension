@@ -1,0 +1,12 @@
+{
+  "name": "Ohm",
+  "version": "1.0.3",
+  "manifest_version": 2,
+  "description": "Extensión para calcular los códigos de color de una resitencia y su valor.",
+  "browser_action": {
+      "default_title": "Ohm",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js https://ssl.google-analytics.com; object-src 'self'"
+}

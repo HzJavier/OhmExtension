@@ -1,0 +1,85 @@
+
+body
+{
+	width: 450px;
+	height: 170px;
+	background-image:url('bg.png');
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 20px;
+}
+
+#ohm_inputText
+{
+	font-size: 20px;
+	width: 100px;
+	margin-right: 5px;
+	margin-left: 90px;
+}
+
+.ohm_toleranceHidden
+{
+	display: none;
+}
+
+.ohm_hidden
+{
+	display: none;
+	min-height: 15px;
+	background: none;
+}
+
+.ohm_colorList
+{
+	width: 190px;
+	height: 100px;
+	float:  left;
+	overflow: hidden;
+	margin-left: 25px;
+	margin-top: 5px;
+}
+
+.ohm_scroller
+{
+	float: left;
+	height: 50px;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+.ohm_color
+{
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.ohm_topColor
+{
+	width: 30px;
+	height: 30px;
+}
+
+.ohm_bottomColor
+{
+	width: 30px;
+	height: 30px;
+}
+
+
+#ohm_valueDisplay
+{
+	float: left;
+	margin-left: 0px;
+	margin-top: 35px;
+
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 40px;
+}
+
+#ohm_tolerance
+{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 5px;
+}

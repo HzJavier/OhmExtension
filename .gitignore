@@ -1,0 +1,7 @@
+# Icons & background
+*.jpg
+*.png
+
+# Release files
+*.crx
+*.pem
